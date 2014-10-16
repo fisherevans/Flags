@@ -1,0 +1,3 @@
+"email",                         "username", "password_hash",                                                "create_ip", "create_date", "verify_code", verified", "public_profile"
+"contact+test@fisherevans.com",  "test",     "$2a$06$rx0/yCmav0eFk7/bCbDgTO56yw5/nCjrpW/7ciesKz/Pvyvlto51C", "127.0.0.1", 739090080,     "abcdefghijk", 1,          1
+"contact+test2@fisherevans.com", "test2",    "$2a$06$rx0/yCmav0eFk7/bCbDgTO56yw5/nCjrpW/7ciesKz/Pvyvlto51C", "127.0.0.1", 739090080,     "abcdefghijk", 1,          0
