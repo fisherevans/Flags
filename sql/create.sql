@@ -22,7 +22,7 @@ CREATE TABLE IF NOT EXISTS `flags`.`user` (
   `last_failed_date` TIMESTAMP NULL,
   `verify_code` VARCHAR(255) NOT NULL,
   `verified` TINYINT(1) NOT NULL,
-  `public_profle` TINYINT(1) NOT NULL,
+  `public_profile` TINYINT(1) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE INDEX `id_UNIQUE` (`id` ASC),
   UNIQUE INDEX `username_UNIQUE` (`username` ASC),
